@@ -4,7 +4,7 @@ import (
 	"github.com/reiver/go-rfc3986"
 )
 
-// HasPrefixPctEncoded returns true if `str` started with pct-encoded, as defined by https://www.w3.org/TR/did-core/
+// HasPrefixPctEncoded returns true if `str` starts with pct-encoded, as defined by https://www.w3.org/TR/did-core/
 //
 // Which is defined as:
 //
