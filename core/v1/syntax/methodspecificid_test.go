@@ -3,7 +3,7 @@ package syntax_test
 import (
 	"testing"
 
-	"github.com/reiver/go-did/syntax"
+	"github.com/reiver/go-did/core/v1/syntax"
 )
 
 func TestIsMethodSpecificID(t *testing.T) {

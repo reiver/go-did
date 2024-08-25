@@ -8,7 +8,7 @@ import (
 
 	"github.com/reiver/go-arbitrary"
 
-	"github.com/reiver/go-did/syntax"
+	"github.com/reiver/go-did/core/v1/syntax"
 )
 
 func TestIsMethodName(t *testing.T) {
