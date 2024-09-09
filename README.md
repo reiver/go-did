@@ -22,7 +22,7 @@ import "github.com/reiver/go-did"
 
 To install package **did** do the following:
 ```
-GOPROXY=direct go get https://github.com/reiver/go-did
+GOPROXY=direct go get github.com/reiver/go-did
 ```
 
 ## Author
