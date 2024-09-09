@@ -13,7 +13,7 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 
 ## Import
 
-To import package **did** use `import` code like the follownig:
+To import package **did** use `import` code like the following:
 ```
 import "github.com/reiver/go-did"
 ```
